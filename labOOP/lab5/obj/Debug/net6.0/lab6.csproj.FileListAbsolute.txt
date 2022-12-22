@@ -1,0 +1,15 @@
+/home/alya/Desktop/oop/lab6/bin/Debug/net6.0/lab6
+/home/alya/Desktop/oop/lab6/bin/Debug/net6.0/lab6.deps.json
+/home/alya/Desktop/oop/lab6/bin/Debug/net6.0/lab6.runtimeconfig.json
+/home/alya/Desktop/oop/lab6/bin/Debug/net6.0/lab6.dll
+/home/alya/Desktop/oop/lab6/bin/Debug/net6.0/ref/lab6.dll
+/home/alya/Desktop/oop/lab6/bin/Debug/net6.0/lab6.pdb
+/home/alya/Desktop/oop/lab6/obj/Debug/net6.0/lab6.csproj.AssemblyReference.cache
+/home/alya/Desktop/oop/lab6/obj/Debug/net6.0/lab6.GeneratedMSBuildEditorConfig.editorconfig
+/home/alya/Desktop/oop/lab6/obj/Debug/net6.0/lab6.AssemblyInfoInputs.cache
+/home/alya/Desktop/oop/lab6/obj/Debug/net6.0/lab6.AssemblyInfo.cs
+/home/alya/Desktop/oop/lab6/obj/Debug/net6.0/lab6.csproj.CoreCompileInputs.cache
+/home/alya/Desktop/oop/lab6/obj/Debug/net6.0/lab6.dll
+/home/alya/Desktop/oop/lab6/obj/Debug/net6.0/ref/lab6.dll
+/home/alya/Desktop/oop/lab6/obj/Debug/net6.0/lab6.pdb
+/home/alya/Desktop/oop/lab6/obj/Debug/net6.0/lab6.genruntimeconfig.cache
